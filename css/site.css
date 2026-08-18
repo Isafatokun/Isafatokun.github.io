@@ -668,17 +668,6 @@ nav {
   line-height: 1.5;
 }
 
-.card-tech {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.03em;
-  line-height: 1.8;
-  color: var(--text-secondary);
-  margin-top: 16px;
-  padding-top: 16px;
-  border-top: 1px solid var(--border);
-}
-
 /* -------------------------------------------------------------------------
    9. Writing
    ------------------------------------------------------------------------- */
